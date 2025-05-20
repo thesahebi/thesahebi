@@ -28,6 +28,6 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thesahebi/)
-- 📧 [Email](sahebiramazan@gmail.com)
+- 📧 [Email](mailto:sahebiramazan@gmail.com)
 
 ---
