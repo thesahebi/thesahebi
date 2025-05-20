@@ -39,6 +39,7 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 ## 📌 Featured Projects
 
 - 🔒 [Firewall Automation Script](https://github.com/thesahebi/firewall-automation) – Bash or PowerShell to automate firewall rule creation.
+- 🔒 [https://github.com/thesahebi/Powershell-AD-Scripts/tree/master] - Bash or PowerShell to automate daily AD admin task.
 - 🧰 [VMware Deployment Script](https://github.com/thesahebi/vmware-deploy) – A template-based automated VM deployer.
 - ☁️ [Azure Resource Provisioner](https://github.com/thesahebi/azure-deploy) – Deploy VMs, NSGs, and VNets using ARM or Bicep templates.
 
