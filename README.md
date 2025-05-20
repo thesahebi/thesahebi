@@ -42,3 +42,6 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=thesahebi&theme=tokyonight" />
+</p>
