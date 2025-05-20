@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**thesahebi/thesahebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a System Administrator with over 12 years of experience.  
+🌐 I work with Azure, Meraki, VMWare, KVM, Linux, syber security more.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Certificates:
+• 2025 – Azure - AZ-204 - Azure Developer Associate - 5D5E1D-C6B5QD
+• 2024 – Azure - AZ-900 - Certified: Azure Fundamentals - 4HB2AD-B40A20
+• 2025 – Linux - 010-160- Essentials 010 - 1297089834
+• 2024 – Cisco - CCNA   - Cisco Certified Network Associate - CSCO14628080
+• 2022 – Security - SCCC - Stellar Cyber Associate Certificat
+• 2018 – MikroTik -  MTCNA - Certified Network Associate - 1809NA8300
+• 2013 – Microsoft - MCITP -  Microsoft Certified IT Professional 
+• 2013 – Microsoft - Office 365 Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: (https://www.linkedin.com/in/thesahebi/)
+- Email: your@email.com
+
