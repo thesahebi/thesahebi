@@ -7,6 +7,20 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 
 ---
 
+## 🧰 Tech Stack & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Meraki](https://img.shields.io/badge/Meraki-00C389?style=for-the-badge&logo=cisco&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-FF6600?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
 ## 🛠️ Technical Certifications
 
 - **2025** – Azure - AZ-204: *Azure Developer Associate*  
@@ -25,12 +39,25 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 
 ---
 
+## 📌 Featured Projects
+
+- 🔒 [Firewall Automation Script](https://github.com/thesahebi/firewall-automation) – Bash or PowerShell to automate firewall rule creation.
+- 🧰 [VMware Deployment Script](https://github.com/thesahebi/vmware-deploy) – A template-based automated VM deployer.
+- ☁️ [Azure Resource Provisioner](https://github.com/thesahebi/azure-deploy) – Deploy VMs, NSGs, and VNets using ARM or Bicep templates.
+
+> *(Update these links with real or placeholder repos you want to showcase.)*
+
+---
+
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/thesahebi/)
-- 📧 [Email](mailto:sahebiramazan@gmail.com)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/thesahebi/)
+- 📧 [Email](mailto:your@email.com)
+
+---
 
 ## 📊 GitHub Stats
+
 <table>
   <tr>
     <td>
@@ -44,4 +71,12 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=thesahebi&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=thesahebi&theme=tokyo-night" />
 </p>
