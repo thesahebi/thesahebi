@@ -65,14 +65,5 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thesahebi&theme=tokyonight" />
-</p>
-
 ---
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=thesahebi&theme=tokyo-night" />
-</p>
