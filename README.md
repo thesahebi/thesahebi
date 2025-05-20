@@ -42,7 +42,6 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 - 🧰 [VMware Deployment Script](https://github.com/thesahebi/vmware-deploy) – A template-based automated VM deployer.
 - ☁️ [Azure Resource Provisioner](https://github.com/thesahebi/azure-deploy) – Deploy VMs, NSGs, and VNets using ARM or Bicep templates.
 
-> *(Update these links with real or placeholder repos you want to showcase.)*
 
 ---
 
