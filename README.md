@@ -32,14 +32,8 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 
 ---
 ## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
+
       <img src="https://github-readme-stats.vercel.app/api?username=thesahebi&show_icons=true&theme=tokyonight" width="450" height="200"/>
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesahebi&layout=compact&theme=tokyonight" width="450" height="200"/>
-    </td>
-  </tr>
-</table>
+   
 
