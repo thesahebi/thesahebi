@@ -27,12 +27,12 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/thesahebi/) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesahebi&layout=compact&theme=tokyonight)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thesahebi/)
 - 📧 [Email](mailto:sahebiramazan@gmail.com)
 
 ---
 ## 📊 GitHub Stats
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesahebi&layout=compact&theme=tokyonight)
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesahebi&show_icons=true&theme=tokyonight) 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=thesahebi&theme=tokyonight)
