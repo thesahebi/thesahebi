@@ -2,12 +2,9 @@
 
 I'm a **System Administrator** with over **12 years of experience** in IT infrastructure, cloud services, and cybersecurity.
 
-🌐 I work with:
-**Azure**, **Cisco Meraki**, **VMware**, **KVM**, **Linux**, **Cybersecurity**, and more.
-
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 My Tech Stack & Tools
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
