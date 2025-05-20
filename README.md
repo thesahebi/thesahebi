@@ -35,12 +35,11 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=thesahebi&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=thesahebi&show_icons=true&theme=tokyonight" width="450" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesahebi&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesahebi&layout=compact&theme=tokyonight" width="450" height="200"/>
     </td>
   </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=thesahebi&theme=tokyonight)
