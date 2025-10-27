@@ -16,6 +16,18 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🏅 Certifications
+
+[![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-red)](https://www.credly.com/badges/1aa3b6bf-7a79-4044-9487-a6402181255e/linked_in?t=t3vdku)
+![Azure AZ-204](https://img.shields.io/badge/Azure-AZ--204-blue)
+![Azure AZ-900](https://img.shields.io/badge/Azure-AZ--900-blue)
+![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-orange)
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-green)
+![Stellar Cyber SCCC](https://img.shields.io/badge/Stellar%20Cyber-SCCC-lightgrey)
+![MikroTik MTCNA](https://img.shields.io/badge/MikroTik-MTCNA-lightgrey)
+![Microsoft MCITP](https://img.shields.io/badge/Microsoft-MCITP-blue)
+![Microsoft Office 365](https://img.shields.io/badge/Microsoft-Office%20365-lightblue)
+
 ---
 
 ## 🛠️ Technical Certifications
