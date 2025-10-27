@@ -32,28 +32,6 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 - **2013** – Microsoft - MCITP: *Microsoft Certified IT Professional*
 - **2013** – Microsoft: *Office 365 Apps Certification*
 
----
-## 🏅 Certifications
-
-<a href="https://www.credly.com/badges/1aa3b6bf-7a79-4044-9487-a6402181255e/linked_in?t=t3vdku" target="_blank">
-  <img src="https://images.credly.com/size/220x220/images/2e0bc0f8-7302-4d3c-9b6e-c3c320477f2e/CompTIA_Cloud_2B_Certification_Badge.svg" width="100" alt="CompTIA Cloud+">
-</a>
-
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="100" alt="Azure AZ-204">
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100" alt="Azure AZ-900">
-
-<img src="https://images.credly.com/size/220x220/images/0e206f95-6d39-46fd-9c2b-8b60ad6d1d83/Linux_Essentials.png" width="100" alt="Linux Essentials">
-
-<img src="https://images.credly.com/size/220x220/images/0f3f95a0-bd87-4784-a56a-520c0a7a05b8/CCNA_badge.png" width="100" alt="Cisco CCNA">
-
-<img src="https://www.stellarcyber.ai/wp-content/uploads/2021/05/StellarCyber-logo-square.png" width="100" alt="Stellar Cyber SCCC">
-
-<img src="https://mikrotik.com/img/mikrotik_logo.png" width="100" alt="MikroTik MTCNA">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="100" alt="Microsoft MCITP">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="100" alt="Microsoft Office 365">
-
 ## 📌 Featured Projects
 
 - 🔒 [Firewall Automation Script](https://github.com/thesahebi/firewall-automation) – Bash or PowerShell to automate firewall rule creation.
