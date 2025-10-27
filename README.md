@@ -15,9 +15,7 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 ![Microsoft MCITP](https://img.shields.io/badge/Microsoft-MCITP-blue)
 ![Microsoft Office 365](https://img.shields.io/badge/Microsoft-Office%20365-lightblue)
 
----
 
-## 🛠️ Technical Certifications
 - **2025** – CompTIA- CV0-004 Cloud+: * CV0-004 - CompTIA Cloud+ 
   Verification: (https://www.credly.com/badges/1aa3b6bf-7a79-4044-9487-a6402181255e/linked_in?t=t3vdku)
 - **2025** – Azure - AZ-204: *Azure Developer Associate*  
