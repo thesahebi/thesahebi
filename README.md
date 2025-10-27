@@ -3,19 +3,6 @@
 I'm a **System Administrator** with over **12 years of experience** in IT infrastructure, cloud services, and cybersecurity.
 
 ---
-
-## 🧰 My Tech Stack & Tools
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Meraki](https://img.shields.io/badge/Meraki-00C389?style=for-the-badge&logo=cisco&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-FF6600?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ## 🏅 Certifications
 
 [![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-red)](https://www.credly.com/badges/1aa3b6bf-7a79-4044-9487-a6402181255e/linked_in?t=t3vdku)
