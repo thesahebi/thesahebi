@@ -5,7 +5,7 @@ I'm a **System Administrator** with over **12 years of experience** in IT infras
 ---
 ## 🏅 Certifications
 
-[![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-red)](https://www.credly.com/badges/1aa3b6bf-7a79-4044-9487-a6402181255e/linked_in?t=t3vdku)
+[![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-red)]
 ![Azure AZ-204](https://img.shields.io/badge/Azure-AZ--204-blue)
 ![Azure AZ-900](https://img.shields.io/badge/Azure-AZ--900-blue)
 ![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-orange)
